@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\grauation project\\Billing\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\services\\items\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\services\\items\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\repositories\\item\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\repositories\\item\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\models\\billingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\billingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\dto\\itemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\dto\\itemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\services\\clients\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\services\\clients\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\repositories\\clients\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\repositories\\clients\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\repositories\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\repositories\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|c:\\users\\softlaptop\\source\\repos\\billing\\billing\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|f:\\iti\\grauation project\\billing\\billing\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\models\\billingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\billingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\dto\\invoiceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\dto\\invoiceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240919075239_mohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Billing\\Migrations\\20240919075239_mohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240919075209_check abos sala7 code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Billing\\Migrations\\20240919075209_check abos sala7 code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\repositories\\invoices\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\repositories\\invoices\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\billing\\repositories\\type\\typerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:billing\\repositories\\type\\typerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240923052439_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954E907-A0C6-40EC-931A-6A79BD5E1221}|Billing\\Billing.csproj|solutionrelative:Billing\\Migrations\\20240923052439_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> dafac5c78cb193e10625f4ddc5e4a7230d0f10d4
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 8,
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> dafac5c78cb193e10625f4ddc5e4a7230d0f10d4
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "ItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\item\\ItemsRepository.cs",
+              "RelativeDocumentMoniker": "Billing\\Repositories\\item\\ItemsRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\item\\ItemsRepository.cs",
+              "RelativeToolTip": "Billing\\Repositories\\item\\ItemsRepository.cs",
+              "ViewState": "AgIAABIAAAAAYL+mi5XZvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:01:01.302Z",
+=======
+              "DocumentIndex": 9,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\ClientController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:18:19.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Program.cs",
+              "RelativeDocumentMoniker": "Billing\\Program.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Program.cs",
+              "RelativeToolTip": "Billing\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:52:27.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\appsettings.json",
+              "RelativeDocumentMoniker": "Billing\\appsettings.json",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\appsettings.json",
+              "RelativeToolTip": "Billing\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T05:53:50.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\UnitController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\UnitController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\UnitController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\UnitController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:19:27.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:18:54.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\InvoiceController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:20:12.596Z",
+>>>>>>> dafac5c78cb193e10625f4ddc5e4a7230d0f10d4
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+=======
+              "DocumentIndex": 6,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\CompanyController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:18:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> dafac5c78cb193e10625f4ddc5e4a7230d0f10d4
+              "Title": "BillingContext.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\BillingContext.cs",
+              "RelativeDocumentMoniker": "Billing\\Models\\BillingContext.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\BillingContext.cs",
+              "RelativeToolTip": "Billing\\Models\\BillingContext.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:59:31.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:54:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Billing\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Models\\Client.cs",
+              "RelativeToolTip": "Billing\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:54:26.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\DTO\\ItemsDTO.cs",
+              "RelativeDocumentMoniker": "Billing\\DTO\\ItemsDTO.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\DTO\\ItemsDTO.cs",
+              "RelativeToolTip": "Billing\\DTO\\ItemsDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:48:47.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Billing\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Models\\Item.cs",
+              "RelativeToolTip": "Billing\\Models\\Item.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:47:41.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Services\\Items\\ItemsService.cs",
+              "RelativeDocumentMoniker": "Billing\\Services\\Items\\ItemsService.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Services\\Items\\ItemsService.cs",
+              "RelativeToolTip": "Billing\\Services\\Items\\ItemsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:45:52.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Services\\Clients\\ClientService.cs",
+              "RelativeDocumentMoniker": "Billing\\Services\\Clients\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Services\\Clients\\ClientService.cs",
+              "RelativeToolTip": "Billing\\Services\\Clients\\ClientService.cs",
+              "ViewState": "AgIAAB0AAACASni9uNMjwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:45:19.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\Clients\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Billing\\Repositories\\Clients\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\Clients\\ClientRepository.cs",
+              "RelativeToolTip": "Billing\\Repositories\\Clients\\ClientRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:44:25.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Billing\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Billing\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:42:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICRUDRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\ICRUDRepository.cs",
+              "RelativeDocumentMoniker": "Billing\\Repositories\\ICRUDRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\Billing\\Billing\\Repositories\\ICRUDRepository.cs",
+              "RelativeToolTip": "Billing\\Repositories\\ICRUDRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:42:00.611Z"
+=======
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:59:14.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240923052439_init.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240923052439_init.cs",
+              "RelativeDocumentMoniker": "Billing\\Migrations\\20240923052439_init.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240923052439_init.cs",
+              "RelativeToolTip": "Billing\\Migrations\\20240923052439_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:24:39.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\ItemsController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:19:15.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\StocksController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\StocksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:19:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeController.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\TypeController.cs",
+              "RelativeDocumentMoniker": "Billing\\Controllers\\TypeController.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Controllers\\TypeController.cs",
+              "RelativeToolTip": "Billing\\Controllers\\TypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:19:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Billing\\Models\\Invoice.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\Invoice.cs",
+              "RelativeToolTip": "Billing\\Models\\Invoice.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAABCwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:54:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240919075239_mohamed.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240919075239_mohamed.cs",
+              "RelativeDocumentMoniker": "Billing\\Migrations\\20240919075239_mohamed.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240919075239_mohamed.cs",
+              "RelativeToolTip": "Billing\\Migrations\\20240919075239_mohamed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:52:39.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240919075209_check abos sala7 code.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240919075209_check abos sala7 code.cs",
+              "RelativeDocumentMoniker": "Billing\\Migrations\\20240919075209_check abos sala7 code.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Migrations\\20240919075209_check abos sala7 code.cs",
+              "RelativeToolTip": "Billing\\Migrations\\20240919075209_check abos sala7 code.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:52:10.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Billing\\Models\\Item.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\Item.cs",
+              "RelativeToolTip": "Billing\\Models\\Item.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:01:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Billing\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Billing\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:00:00.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "Billing\\Models\\InvoiceItem.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Models\\InvoiceItem.cs",
+              "RelativeToolTip": "Billing\\Models\\InvoiceItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:00:10.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoiceItemDTO.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\DTO\\InvoiceItemDTO.cs",
+              "RelativeDocumentMoniker": "Billing\\DTO\\InvoiceItemDTO.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\DTO\\InvoiceItemDTO.cs",
+              "RelativeToolTip": "Billing\\DTO\\InvoiceItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:20:43.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TypeRepository.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Repositories\\Type\\TypeRepository.cs",
+              "RelativeDocumentMoniker": "Billing\\Repositories\\Type\\TypeRepository.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Repositories\\Type\\TypeRepository.cs",
+              "RelativeToolTip": "Billing\\Repositories\\Type\\TypeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:01:33.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "F:\\ITI\\grauation project\\Billing\\Billing\\Repositories\\Invoices\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Billing\\Repositories\\Invoices\\InvoiceRepository.cs",
+              "ToolTip": "F:\\ITI\\grauation project\\Billing\\Billing\\Repositories\\Invoices\\InvoiceRepository.cs",
+              "RelativeToolTip": "Billing\\Repositories\\Invoices\\InvoiceRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:58:54.595Z"
+>>>>>>> dafac5c78cb193e10625f4ddc5e4a7230d0f10d4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
